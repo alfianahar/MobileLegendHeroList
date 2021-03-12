@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mobilelegendherolist/static/css/main.9f61dafb.chunk.css",
+    "main.js": "/mobilelegendherolist/static/js/main.2787483a.chunk.js",
+    "main.js.map": "/mobilelegendherolist/static/js/main.2787483a.chunk.js.map",
+    "runtime-main.js": "/mobilelegendherolist/static/js/runtime-main.fefa11a8.js",
+    "runtime-main.js.map": "/mobilelegendherolist/static/js/runtime-main.fefa11a8.js.map",
+    "static/js/2.9da4b45d.chunk.js": "/mobilelegendherolist/static/js/2.9da4b45d.chunk.js",
+    "static/js/2.9da4b45d.chunk.js.map": "/mobilelegendherolist/static/js/2.9da4b45d.chunk.js.map",
+    "static/js/3.66d52ee0.chunk.js": "/mobilelegendherolist/static/js/3.66d52ee0.chunk.js",
+    "static/js/3.66d52ee0.chunk.js.map": "/mobilelegendherolist/static/js/3.66d52ee0.chunk.js.map",
+    "index.html": "/mobilelegendherolist/index.html",
+    "static/css/main.9f61dafb.chunk.css.map": "/mobilelegendherolist/static/css/main.9f61dafb.chunk.css.map",
+    "static/js/2.9da4b45d.chunk.js.LICENSE.txt": "/mobilelegendherolist/static/js/2.9da4b45d.chunk.js.LICENSE.txt",
+    "static/media/MLBBLogo.eb320b4e.svg": "/mobilelegendherolist/static/media/MLBBLogo.eb320b4e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fefa11a8.js",
+    "static/js/2.9da4b45d.chunk.js",
+    "static/css/main.9f61dafb.chunk.css",
+    "static/js/main.2787483a.chunk.js"
+  ]
+}
