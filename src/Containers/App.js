@@ -25,7 +25,7 @@ class App extends Component {
         return (
             <div className='font-mono text-center'>
                 <header className='pt-2 h-1/3 flex flex-col items-center justify-center'>
-                    <img src={logo} className='w-1/5 al' alt="MLBBlogo"/>
+                    <img src={logo} className='w-3/5 md:w-1/5' alt="MLBBlogo"/>
                     <h1 className='text-2xl text-gray-200 font-bold'>Fans Database</h1>
                 </header>
                 <SearchBox searchChange={this.onSearchChange} />
