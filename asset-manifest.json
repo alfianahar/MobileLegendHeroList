@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mobilelegendherolist/static/css/main.e2111302.chunk.css",
-    "main.js": "/mobilelegendherolist/static/js/main.209ad8d2.chunk.js",
-    "main.js.map": "/mobilelegendherolist/static/js/main.209ad8d2.chunk.js.map",
+    "main.js": "/mobilelegendherolist/static/js/main.282e4570.chunk.js",
+    "main.js.map": "/mobilelegendherolist/static/js/main.282e4570.chunk.js.map",
     "runtime-main.js": "/mobilelegendherolist/static/js/runtime-main.fefa11a8.js",
     "runtime-main.js.map": "/mobilelegendherolist/static/js/runtime-main.fefa11a8.js.map",
     "static/js/2.9da4b45d.chunk.js": "/mobilelegendherolist/static/js/2.9da4b45d.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.fefa11a8.js",
     "static/js/2.9da4b45d.chunk.js",
     "static/css/main.e2111302.chunk.css",
-    "static/js/main.209ad8d2.chunk.js"
+    "static/js/main.282e4570.chunk.js"
   ]
 }
