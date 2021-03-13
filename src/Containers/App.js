@@ -29,7 +29,7 @@ class App extends Component {
                     <h1 className='text-2xl text-gray-200 font-bold'>Fans Database</h1>
                 </header>
                 <SearchBox searchChange={this.onSearchChange} />
-                <div className='overflow-y-auto h-96'>
+                <div className='overflow-y-auto h-plus md:h-96'>
                     <CardList Heroes={filteredHeroes} />
                 </div>
                 <footer>

@@ -49,10 +49,10 @@ const Card = ({heroname, role, role2, image, specialty, specialty2}) => {
     //   } // specilaty all in
 
     return (
-        <div className={`text-center inline-grid justify-items-center ${col1} rounded-md shadow-md p-1 py-2 m-1.5 transition duration-300 ease-in-out transform hover:${col2} hover:-translate-y-1 hover:scale-110`}>
-            <img className='object-cover object-center rounded-lg h-40 w-40 md:h-32 md:w-32 border-2' src={process.env.PUBLIC_URL + `${image}`} alt={heroname} />
+        <div className={`text-center inline-grid justify-items-center ${col1} rounded-md shadow-md p-1 md:py-2 m-1.5 transition duration-300 ease-in-out transform hover:${col2} hover:-translate-y-1 hover:scale-110`}>
+            <img className='object-cover object-center rounded-lg h-24 w-24 md:h-32 md:w-32 border-2' src={process.env.PUBLIC_URL + `${image}`} alt={heroname} />
             <div>
-                <h1 className='text-lg font-extrabold'>{heroname}</h1>
+                <h1 className='pt-1 text-xs font-semibold md:text-lg md:font-extrabold'>{heroname}</h1>
                 {/* <h3 className='text-sm font-semibold italic tracking-tight'>{roleAll}</h3>
                 <p className='text-xs tracking-tighter'>{spcAll}</p> */}
             </div>
