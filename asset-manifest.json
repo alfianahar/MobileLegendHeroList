@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/mobilelegendherolist/static/css/main.e2111302.chunk.css",
-    "main.js": "/mobilelegendherolist/static/js/main.282e4570.chunk.js",
-    "main.js.map": "/mobilelegendherolist/static/js/main.282e4570.chunk.js.map",
-    "runtime-main.js": "/mobilelegendherolist/static/js/runtime-main.fefa11a8.js",
-    "runtime-main.js.map": "/mobilelegendherolist/static/js/runtime-main.fefa11a8.js.map",
-    "static/js/2.9da4b45d.chunk.js": "/mobilelegendherolist/static/js/2.9da4b45d.chunk.js",
-    "static/js/2.9da4b45d.chunk.js.map": "/mobilelegendherolist/static/js/2.9da4b45d.chunk.js.map",
-    "static/js/3.66d52ee0.chunk.js": "/mobilelegendherolist/static/js/3.66d52ee0.chunk.js",
-    "static/js/3.66d52ee0.chunk.js.map": "/mobilelegendherolist/static/js/3.66d52ee0.chunk.js.map",
-    "index.html": "/mobilelegendherolist/index.html",
-    "static/css/main.e2111302.chunk.css.map": "/mobilelegendherolist/static/css/main.e2111302.chunk.css.map",
-    "static/js/2.9da4b45d.chunk.js.LICENSE.txt": "/mobilelegendherolist/static/js/2.9da4b45d.chunk.js.LICENSE.txt",
-    "static/media/MLBBLogo.eb320b4e.svg": "/mobilelegendherolist/static/media/MLBBLogo.eb320b4e.svg"
+    "main.css": "/MobileLegendHeroList/static/css/main.e2111302.chunk.css",
+    "main.js": "/MobileLegendHeroList/static/js/main.b22259df.chunk.js",
+    "main.js.map": "/MobileLegendHeroList/static/js/main.b22259df.chunk.js.map",
+    "runtime-main.js": "/MobileLegendHeroList/static/js/runtime-main.f353ae7d.js",
+    "runtime-main.js.map": "/MobileLegendHeroList/static/js/runtime-main.f353ae7d.js.map",
+    "static/js/2.9da4b45d.chunk.js": "/MobileLegendHeroList/static/js/2.9da4b45d.chunk.js",
+    "static/js/2.9da4b45d.chunk.js.map": "/MobileLegendHeroList/static/js/2.9da4b45d.chunk.js.map",
+    "static/js/3.66d52ee0.chunk.js": "/MobileLegendHeroList/static/js/3.66d52ee0.chunk.js",
+    "static/js/3.66d52ee0.chunk.js.map": "/MobileLegendHeroList/static/js/3.66d52ee0.chunk.js.map",
+    "index.html": "/MobileLegendHeroList/index.html",
+    "static/css/main.e2111302.chunk.css.map": "/MobileLegendHeroList/static/css/main.e2111302.chunk.css.map",
+    "static/js/2.9da4b45d.chunk.js.LICENSE.txt": "/MobileLegendHeroList/static/js/2.9da4b45d.chunk.js.LICENSE.txt",
+    "static/media/MLBBLogo.eb320b4e.svg": "/MobileLegendHeroList/static/media/MLBBLogo.eb320b4e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fefa11a8.js",
+    "static/js/runtime-main.f353ae7d.js",
     "static/js/2.9da4b45d.chunk.js",
     "static/css/main.e2111302.chunk.css",
-    "static/js/main.282e4570.chunk.js"
+    "static/js/main.b22259df.chunk.js"
   ]
 }
