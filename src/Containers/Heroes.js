@@ -6,7 +6,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Reap',
     specialty2: 'Damage',
-    image: '/img/Miya.png'
+    image: '/img/Miya.jpg'
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Damage',
     specialty2: 'Regen',
-    image: '/img/Balmond.png'
+    image: '/img/Balmond.jpg'
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Charge',
     specialty2: 'Reap',
-    image: '/img/Saber.png'
+    image: '/img/Saber.jpg'
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const Heroes = [
     role2: 'Tank',
     specialty: 'Charge',
     specialty2: 'Regen',
-    image: '/img/Alice.png'
+    image: '/img/Alice.jpg'
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const Heroes = [
     role2: 'Support',
     specialty: 'Poke',
     specialty2: 'Guard',
-    image: '/img/Nana.png'
+    image: '/img/Nana.jpg'
   },  
   {
     id: 6,
@@ -51,7 +51,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Crowd Control',
     specialty2: '',
-    image: '/img/Tigreal.png'
+    image: '/img/Tigreal.jpg'
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const Heroes = [
     role2: 'Assassin',
     specialty: 'Chase',
     specialty2: 'Damage',
-    image: '/img/Alucard.png'
+    image: '/img/Alucard.jpg'
   },  
   {
     id: 8,
@@ -69,7 +69,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Reap',
     specialty2: 'Magic Damage',
-    image: '/img/Karina.png'
+    image: '/img/Karina.jpg'
   },
   { 
     id: 9,
@@ -78,7 +78,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Guard',
     specialty2: 'Crowd Control',
-    image: '/img/Akai.png'
+    image: '/img/Akai.jpg'
   },  
   {
     id: 10,
@@ -87,7 +87,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Initiator',
     specialty2: 'Control',
-    image: '/img/Franco.png'
+    image: '/img/Franco.jpg'
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Push',
     specialty2: 'Burst',
-    image: '/img/Bane.png'
+    image: '/img/Bane.jpg'
   },					
   {
     id: 12,
@@ -105,7 +105,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Reap',
     specialty2: 'Burst',
-    image: '/img/Bruno.png'
+    image: '/img/Bruno.jpg'
   },					
   {
     id: 13,
@@ -114,7 +114,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Reap',
     specialty2: 'Burst',
-    image: '/img/Clint.png'
+    image: '/img/Clint.jpg'
   },					
   {
     id: 14,
@@ -123,7 +123,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Regen',
     specialty2: 'Guard',
-    image: '/img/Rafaela.png'
+    image: '/img/Rafaela.jpg'
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Control',
     specialty2: 'Burst',
-    image: '/img/Eudora.png'
+    image: '/img/Eudora.jpg'
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ export const Heroes = [
     role2: 'Assassin',
     specialty: 'Chase',
     specialty2: 'Damage',
-    image: '/img/Zilong.png'
+    image: '/img/Zilong.jpg'
   },					
   {
     id: 17,
@@ -150,7 +150,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Chase',
     specialty2: 'Reap',
-    image: '/img/Fanny.png'
+    image: '/img/Fanny.jpg'
   },  					
   {
     id: 18,
@@ -159,7 +159,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Reap',
     specialty2: 'Damage',
-    image: '/img/Layla.png'
+    image: '/img/Layla.jpg'
   },  					
   {
     id: 19,
@@ -168,7 +168,7 @@ export const Heroes = [
     role2: 'Support',
     specialty: 'Crowd Control',
     specialty2: '',
-    image: '/img/Minotaur.png'
+    image: '/img/Minotaur.jpg'
   },					
   {
     id: 20,
@@ -177,7 +177,7 @@ export const Heroes = [
     role2: 'Tank',
     specialty: 'Guard',
     specialty2: 'Crowd Control',
-    image: '/img/Lolita.png'
+    image: '/img/Lolita.jpg'
   },					
   {
     id: 21,
@@ -186,7 +186,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Chase',
     specialty2: 'Burst',
-    image: '/img/Hayabusa.png'
+    image: '/img/Hayabusa.jpg'
   },					
   {
     id: 22,
@@ -195,7 +195,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Chase',
     specialty2: 'Damage',
-    image: '/img/Freya.png'
+    image: '/img/Freya.jpg'
   },					
   {
     id: 23,
@@ -204,7 +204,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Poke',
     specialty2: 'Burst',
-    image: '/img/Gord.png'
+    image: '/img/Gord.jpg'
   },
   {
     id: 24,
@@ -213,7 +213,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Chase',
     specialty2: 'Reap',
-    image: '/img/Natalia.png'
+    image: '/img/Natalia.jpg'
   },
   {
     id: 25,
@@ -222,7 +222,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Poke',
     specialty2: 'Reap',
-    image: '/img/Kagura.png'
+    image: '/img/Kagura.jpg'
   },
   {
     id: 26,
@@ -231,7 +231,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Chase',
     specialty2: 'Control',
-    image: '/img/Chou.png'
+    image: '/img/Chou.jpg'
   },
   {
     id: 27,
@@ -240,7 +240,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Push',
     specialty2: 'Damage',
-    image: '/img/Sun.png'
+    image: '/img/Sun.jpg'
   },
   {
     id: 28,
@@ -249,7 +249,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Charge',
     specialty2: 'Damage',
-    image: '/img/Alpha.png'
+    image: '/img/Alpha.jpg'
   },
   {
     id: 29,
@@ -258,7 +258,7 @@ export const Heroes = [
     role2: 'Tank',
     specialty: 'Crowd Control',
     specialty2: 'Regen',
-    image: '/img/Ruby.png'
+    image: '/img/Ruby.jpg'
   },
   {
     id: 30,
@@ -267,7 +267,7 @@ export const Heroes = [
     role2: 'Assassin',
     specialty: 'Reap',
     specialty2: 'Chase',
-    image: '/img/Yi_Sun-Shin.png'
+    image: '/img/Yi_Sun-Shin.jpg'
   },
   {
     id: 31,
@@ -276,7 +276,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Reap',
     specialty2: 'Chase',
-    image: '/img/Moskov.png'
+    image: '/img/Moskov.jpg'
   },
   {
     id: 32,
@@ -285,7 +285,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Support',
     specialty2: 'Crowd Control',
-    image: '/img/Johnson.png'
+    image: '/img/Johnson.jpg'
   },
   {
     id: 33,
@@ -294,7 +294,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Poke',
     specialty2: 'Control',
-    image: '/img/Cyclops.png'
+    image: '/img/Cyclops.jpg'
   },
   {
     id: 34,
@@ -303,7 +303,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Regen',
     specialty2: 'Guard',
-    image: '/img/Estes.png'
+    image: '/img/Estes.jpg'
   },
   {
     id: 35,
@@ -312,7 +312,7 @@ export const Heroes = [
     role2: 'Tank',
     specialty: 'Damage',
     specialty2: 'Regen',
-    image: '/img/Hilda.png'
+    image: '/img/Hilda.jpg'
   },
   {
     id: 36,
@@ -321,7 +321,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Crowd Control',
     specialty2: 'Poke',
-    image: '/img/Aurora.png'
+    image: '/img/Aurora.jpg'
   },
   {
     id: 37,
@@ -330,7 +330,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Chase',
     specialty2: 'Burst',
-    image: '/img/Lapu-Lapu.png'
+    image: '/img/Lapu-Lapu.jpg'
   },
   {
     id: 38,
@@ -339,7 +339,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Poke',
     specialty2: 'Control',
-    image: '/img/Vexana.png'
+    image: '/img/Vexana.jpg'
   },        
   {
     id: 39,
@@ -348,7 +348,7 @@ export const Heroes = [
     role2: 'Marksman',
     specialty: 'Reap',
     specialty2: 'Burst',
-    image: '/img/Roger.png'
+    image: '/img/Roger.jpg'
   },  
   {
     id: 40,
@@ -357,7 +357,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Reap',
     specialty2: 'Damage',
-    image: '/img/Karrie.png'
+    image: '/img/Karrie.jpg'
   },
   {
     id: 41,
@@ -366,7 +366,7 @@ export const Heroes = [
     role2: 'Fighter',
     specialty: 'Crowd Control',
     specialty2: 'Burst',
-    image: '/img/Gatotkaca.png'
+    image: '/img/Gatotkaca.jpg'
   },
   {
     id: 42,
@@ -375,7 +375,7 @@ export const Heroes = [
     role2: 'Assassin',
     specialty: 'Burst',
     specialty2: 'Poke',
-    image: '/img/Harley.png'
+    image: '/img/Harley.jpg'
   },
   {
     id: 43,
@@ -384,7 +384,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Reap',
     specialty2: 'Burst',
-    image: '/img/Irithel.png'
+    image: '/img/Irithel.jpg'
   },
   {
     id: 44,
@@ -393,7 +393,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Crowd Control',
     specialty2: 'Initiator',
-    image: '/img/Grock.png'
+    image: '/img/Grock.jpg'
   },
   {
     id: 45,
@@ -402,7 +402,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Charge',
     specialty2: 'Burst',
-    image: '/img/Argus.png'
+    image: '/img/Argus.jpg'
   },
   {
     id: 46,
@@ -411,7 +411,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Burst',
     specialty2: 'Poke',
-    image: '/img/Odette.png'
+    image: '/img/Odette.jpg'
   },
   {
     id: 47,
@@ -420,7 +420,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Chase',
     specialty2: 'Burst',
-    image: '/img/Lancelot.png'
+    image: '/img/Lancelot.jpg'
   },
   {
     id: 48,
@@ -429,7 +429,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Guard',
     specialty2: 'Poke',
-    image: '/img/Diggie.png'
+    image: '/img/Diggie.jpg'
   },
   {
     id: 49,
@@ -438,7 +438,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Guard',
     specialty2: 'Initiator',
-    image: '/img/Hylos.png'
+    image: '/img/Hylos.jpg'
   },
   {
     id: 50,
@@ -447,7 +447,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Chase',
     specialty2: 'Damage',
-    image: '/img/Zhask.png'
+    image: '/img/Zhask.jpg'
   },
   {
     id: 51,
@@ -456,7 +456,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Push',
     specialty2: 'Burst',
-    image: '/img/Helcurt.png'
+    image: '/img/Helcurt.jpg'
   },
   {
     id: 52,
@@ -465,7 +465,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Burst',
     specialty2: 'Poke',
-    image: '/img/Pharsa.png'
+    image: '/img/Pharsa.jpg'
   },
   {
     id: 53,
@@ -474,7 +474,7 @@ export const Heroes = [
     role2: 'Assassin',
     specialty: 'Reap',
     specialty2: 'Burst',
-    image: '/img/Lesley.png'
+    image: '/img/Lesley.jpg'
   },
   {
     id: 54,
@@ -483,7 +483,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Charge',
     specialty2: 'Burst',
-    image: '/img/Jawhead.png'
+    image: '/img/Jawhead.jpg'
   },
   {
     id: 55,
@@ -492,7 +492,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Guard',
     specialty2: 'Support',
-    image: '/img/Angela.png'
+    image: '/img/Angela.jpg'
   },
   {
     id: 56,
@@ -501,7 +501,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Burst',
     specialty2: 'Magic',
-    image: '/img/Gusion.png'
+    image: '/img/Gusion.jpg'
   },
   {
     id: 57,
@@ -510,7 +510,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Damage',
     specialty2: 'Guard',
-    image: '/img/Valir.png'
+    image: '/img/Valir.jpg'
   },
   {
     id: 58,
@@ -519,7 +519,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Reap',
     specialty2: 'Charge',
-    image: '/img/Martis.png'
+    image: '/img/Martis.jpg'
   },
   {
     id: 59,
@@ -528,7 +528,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Regen',
     specialty2: '',
-    image: '/img/Uranus.png'
+    image: '/img/Uranus.jpg'
   },
   {
     id: 60,
@@ -537,7 +537,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Reap',
     specialty2: 'Damage',
-    image: '/img/Hanabi.png'
+    image: '/img/Hanabi.jpg'
   },
   {
     id: 61,
@@ -546,7 +546,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Poke',
     specialty2: 'Burst',
-    image: '/img/Change.png'
+    image: '/img/Change.jpg'
   },
   {
     id: 62,
@@ -555,7 +555,7 @@ export const Heroes = [
     role2: 'Support',
     specialty: 'Control',
     specialty2: 'Charge',
-    image: '/img/Kaja.png'
+    image: '/img/Kaja.jpg'
   },
   {
     id: 63,
@@ -564,7 +564,7 @@ export const Heroes = [
     role2: 'Mage',
     specialty: 'Initiator',
     specialty2: 'Reap',
-    image: '/img/Selena.png'
+    image: '/img/Selena.jpg'
   },
   {
     id: 64,
@@ -573,7 +573,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Burst',
     specialty2: 'Support',
-    image: '/img/Aldous.png'
+    image: '/img/Aldous.jpg'
   },
   {
     id: 65,
@@ -582,7 +582,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Burst',
     specialty2: 'Chase',
-    image: '/img/Claude.png'
+    image: '/img/Claude.jpg'
   },
   {
     id: 66,
@@ -591,7 +591,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Burst',
     specialty2: 'Crowd Control',
-    image: '/img/Vale.png'
+    image: '/img/Vale.jpg'
   },
   {
     id: 67,
@@ -600,7 +600,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Chase',
     specialty2: 'Burst',
-    image: '/img/Leomord.png'
+    image: '/img/Leomord.jpg'
   },
   {
     id: 68,
@@ -609,7 +609,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Burst',
     specialty2: 'Damage',
-    image: '/img/Lunox.png'
+    image: '/img/Lunox.jpg'
   },
   {
     id: 69,
@@ -618,7 +618,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Poke',
     specialty2: 'Burst',
-    image: '/img/Hanzo.png'
+    image: '/img/Hanzo.jpg'
   },  
   {
     id: 70,
@@ -627,7 +627,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Crowd Control',
     specialty2: 'Regen',
-    image: '/img/Belerick.png'
+    image: '/img/Belerick.jpg'
   },
   {
     id: 71,
@@ -636,7 +636,7 @@ export const Heroes = [
     role2: 'Mage',
     specialty: 'Damage',
     specialty2: 'Mixed',
-    image: '/img/Kimmy.png'
+    image: '/img/Kimmy.jpg'
   },
   {
     id: 72,
@@ -645,7 +645,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Chase',
     specialty2: 'Damage',
-    image: '/img/Thamuz.png'
+    image: '/img/Thamuz.jpg'
   },
   {
     id: 73,
@@ -654,7 +654,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Chase',
     specialty2: 'Damage',
-    image: '/img/Harith.png'
+    image: '/img/Harith.jpg'
   },
   {
     id: 74,
@@ -663,7 +663,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Initiator',
     specialty2: 'Crowd Control',
-    image: '/img/Minsitthar.png'
+    image: '/img/Minsitthar.jpg'
   },
   {
     id: 75,
@@ -672,7 +672,7 @@ export const Heroes = [
     role2: 'Assassin',
     specialty: 'Burst',
     specialty2: 'Charge',
-    image: '/img/Kadita.png'
+    image: '/img/Kadita.jpg'
   },
   {
     id: 76,
@@ -681,7 +681,7 @@ export const Heroes = [
     role2: 'Mage',
     specialty: 'Guard',
     specialty2: 'Charge',
-    image: '/img/Faramis.png'
+    image: '/img/Faramis.jpg'
   },
   {
     id: 77,
@@ -690,7 +690,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Charge',
     specialty2: 'Burst',
-    image: '/img/Badang.png'
+    image: '/img/Badang.jpg'
   },
   {
     id: 78,
@@ -699,7 +699,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Initiator',
     specialty2: 'Crowd Control',
-    image: '/img/Khufra.png'
+    image: '/img/Khufra.jpg'
   },
   {
     id: 79,
@@ -708,7 +708,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Burst',
     specialty2: 'Reap',
-    image: '/img/Granger.png'
+    image: '/img/Granger.jpg'
   },
   {
     id: 80,
@@ -717,7 +717,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Burst',
     specialty2: 'Magic',
-    image: '/img/Guinevere.png'
+    image: '/img/Guinevere.jpg'
   },
   {
     id: 81,
@@ -726,7 +726,7 @@ export const Heroes = [
     role2: 'Tank',
     specialty: 'Regen',
     specialty2: 'Mixed',
-    image: '/img/Esmeralda.png'
+    image: '/img/Esmeralda.jpg'
   },
   {
     id: 82,
@@ -735,7 +735,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Burst',
     specialty2: 'Crowd Control',
-    image: '/img/Terizla.png'
+    image: '/img/Terizla.jpg'
   },
   {
     id: 83,
@@ -744,7 +744,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Regen',
     specialty2: 'Burst',
-    image: '/img/X-Borg.png'
+    image: '/img/X-Borg.jpg'
   },
   {
     id: 84,
@@ -753,7 +753,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Chase',
     specialty2: 'Burst',
-    image: '/img/Ling.png'
+    image: '/img/Ling.jpg'
   },
   {
     id: 85,
@@ -762,7 +762,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Charge',
     specialty2: 'Burst',
-    image: '/img/Dyrroth.png'
+    image: '/img/Dyrroth.jpg'
   },
   {
     id: 86,
@@ -771,7 +771,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Push',
     specialty2: 'Damage',
-    image: '/img/Lylia.png'
+    image: '/img/Lylia.jpg'
   },
   {
     id: 87,
@@ -780,7 +780,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Support',
     specialty2: 'Damage',
-    image: '/img/Baxia.png'
+    image: '/img/Baxia.jpg'
   },
   {
     id: 88,
@@ -789,7 +789,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Push',
     specialty2: 'Damage',
-    image: '/img/Masha.png'
+    image: '/img/Masha.jpg'
   },
   {
     id: 89,
@@ -798,7 +798,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Reap',
     specialty2: 'Burst',
-    image: '/img/Wanwan.png'
+    image: '/img/Wanwan.jpg'
   },
   {
     id: 90,
@@ -807,7 +807,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Initiator',
     specialty2: 'Magic',
-    image: '/img/Silvanna.png'
+    image: '/img/Silvanna.jpg'
   },
   {
     id: 91,
@@ -816,7 +816,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Poke',
     specialty2: 'Burst',
-    image: '/img/Cecilion.png'
+    image: '/img/Cecilion.jpg'
     },
     {
     id: 92,
@@ -825,7 +825,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Crowd Control',
     specialty2: 'Damage',
-    image: '/img/Carmilla.png'
+    image: '/img/Carmilla.jpg'
     },
     {
     id: 93,
@@ -834,7 +834,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Crowd Control',
     specialty2: 'Initiator',
-    image: '/img/Atlas.png'
+    image: '/img/Atlas.jpg'
     },
     {
     id: 94,
@@ -843,7 +843,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Push',
     specialty2: 'Burst',
-    image: '/img/Popol_and_Kupa.png'
+    image: '/img/Popol_and_Kupa.jpg'
     },
   {
     id: 95,
@@ -852,7 +852,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Regen',
     specialty2: 'Damage',
-    image: '/img/Yu_Zhong.png'
+    image: '/img/Yu_Zhong.jpg'
   },
   {
     id: 96,
@@ -861,7 +861,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Support',
     specialty2: 'Crowd Control',
-    image: '/img/Luo_Yi.png'
+    image: '/img/Luo_Yi.jpg'
   },
   {
     id: 97,
@@ -870,7 +870,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Chase',
     specialty2: 'Burst',
-    image: '/img/Benedetta.png'
+    image: '/img/Benedetta.jpg'
   },
   {
     id: 98,
@@ -879,7 +879,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Damage',
     specialty2: 'Regen',
-    image: '/img/Khaleed.png'
+    image: '/img/Khaleed.jpg'
   },
   {
     id: 99,
@@ -888,7 +888,7 @@ export const Heroes = [
     role2: 'Fighter',
     specialty: 'Damage',
     specialty2: 'Crowd Control',
-    image: '/img/Barats.png'
+    image: '/img/Barats.jpg'
   },
   {
     id: 100,
@@ -897,7 +897,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Burst',
     specialty2: 'Reap',
-    image: '/img/Brody.png'
+    image: '/img/Brody.jpg'
   },
   {
     id: 101,
@@ -906,7 +906,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Poke',
     specialty2: 'Burst',
-    image: '/img/Yve.png'
+    image: '/img/Yve.jpg'
   },
   {
     id: 102,
@@ -915,7 +915,7 @@ export const Heroes = [
     role2: 'Assassin',
     specialty: 'Initiator',
     specialty2: 'Guard',
-    image: '/img/Mathilda.png'
+    image: '/img/Mathilda.jpg'
   },
   {
     id: 103,
@@ -924,7 +924,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Chase',
     specialty2: 'Damage',
-    image: '/img/Paquito.png'
+    image: '/img/Paquito.jpg'
   },
   {
     id: 104,
@@ -933,7 +933,7 @@ export const Heroes = [
     role2: '',
     specialty: 'Reap',
     specialty2: 'Damage',
-    image: '/img/Beatrix.png'
+    image: '/img/Beatrix.jpg'
   },
 ];
 
