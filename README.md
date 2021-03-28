@@ -11,3 +11,5 @@ Pls contact me if there are an updated API of MLBB, maybe i'll fix this site. Ho
 - GH Page to build and deploy on github
 
 Just clone this git and `npm install `
+
+New version is [here] (https://github.com/alfianahar/MobileLegend-HeroList)
